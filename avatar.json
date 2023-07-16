@@ -1,0 +1,7 @@
+{
+  "name": "Niko",
+  "authors": ["Limit"],
+  "autoScripts":["niko"],
+  
+  "description":"A cat"
+}
